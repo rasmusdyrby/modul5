@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vvz4/O+wiwluDL2IWENXB+yZZDaHLjN74AxAb6SYggn3S4zPIygb6yWiwuDIgLHPPP6YJKo/Y6jK9daVefPtoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rasmus Dyrby Damgaar\\OneDrive\\Skrivebord\\Modul 5 - agil\\Orders_ShoppingApp\\Orders_ShoppingApp\\Orders_ShoppingApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rasmus Dyrby Damgaar\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Rasmus Dyrby Damgaar\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Rasmus Dyrby Damgaar\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Rasmus Dyrby Damgaar\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Rasmus Dyrby Damgaar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Rasmus Dyrby Damgaar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
